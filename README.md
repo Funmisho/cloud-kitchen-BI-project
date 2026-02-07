@@ -39,7 +39,7 @@ This project builds a full Business Intelligence workflow:
 ### 1. Sales Performance Dashboard
 Tracks revenue and customer behavior
 
-Dashboards/Orders & Sales.png
+![Orders Dashboard](Dashboards/orders_sales.png)
 
 Key metrics:
 - Total orders
@@ -54,6 +54,8 @@ Key metrics:
 ### 2. Inventory Monitoring Dashboard
 Monitors ingredient usage and stock health
 
+![Inventory Dashboard](Dashboards/Inventory.png)
+
 Key metrics:
 - Ingredient consumption
 - Cost contribution per ingredient
@@ -64,6 +66,8 @@ Key metrics:
 
 ### 3. Staff Performance Dashboard
 Evaluates labour efficiency and cost
+
+![Staff Dashboard]( Dashboards/Staff.png) 
 
 Key metrics:
 - Total labour cost
