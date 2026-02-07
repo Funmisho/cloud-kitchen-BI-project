@@ -1,10 +1,22 @@
 # Cloud Kitchen Business Intelligence System
 
-This project simulates a real-world analytics engagement for a takeaway and delivery restaurant called **Cloud Kitchen**.
+## Business Problem
 
-The objective was to design a backend data system and analytical dashboards that help management monitor sales performance, ingredient usage, and labour efficiency.
+Cloud Kitchen is a delivery-only restaurant that needs visibility into its daily operations.
+The owner cannot easily determine sales performance, ingredient consumption, or labour efficiency.
+
+This project builds a backend analytics system that transforms operational data into decision-making insights.
 
 ---
+
+## Solution
+
+I designed a relational database, created SQL transformation views, and built dashboards to monitor:
+
+• Sales performance
+• Inventory health
+• Staff efficiency
+
 
 ## Project Overview
 
