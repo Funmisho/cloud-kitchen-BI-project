@@ -39,6 +39,8 @@ This project builds a full Business Intelligence workflow:
 ### 1. Sales Performance Dashboard
 Tracks revenue and customer behavior
 
+![Orders Dashboard](Dashboards/Orders & Sales.png)
+
 Key metrics:
 - Total orders
 - Total sales
